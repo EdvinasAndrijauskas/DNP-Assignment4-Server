@@ -1,0 +1,183 @@
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Assignment 4 - Server.exe
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Assignment 4 - Server.deps.json
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Assignment 4 - Server.runtimeconfig.json
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Assignment 4 - Server.runtimeconfig.dev.json
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Assignment 4 - Server.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Assignment 4 - Server.pdb
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.csprojAssemblyReference.cache
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.AssemblyInfoInputs.cache
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.AssemblyInfo.cs
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.csproj.CoreCompileInputs.cache
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.RazorTargetAssemblyInfo.cache
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.csproj.CopyComplete
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\obj\Debug\netcoreapp3.1\staticwebassets\Assignment 4 - Server.StaticWebAssets.Manifest.cache
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\obj\Debug\netcoreapp3.1\staticwebassets\Assignment 4 - Server.StaticWebAssets.xml
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.dll
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.pdb
+D:\Univer\C#\Assignment 4 - Server\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.genruntimeconfig.cache
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Assignment 4 - Server.exe
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Assignment 4 - Server.deps.json
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Assignment 4 - Server.runtimeconfig.json
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Assignment 4 - Server.runtimeconfig.dev.json
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Assignment 4 - Server.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Assignment 4 - Server.pdb
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.csprojAssemblyReference.cache
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.AssemblyInfoInputs.cache
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.AssemblyInfo.cs
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.csproj.CoreCompileInputs.cache
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.RazorTargetAssemblyInfo.cache
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.csproj.CopyComplete
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\obj\Debug\netcoreapp3.1\staticwebassets\Assignment 4 - Server.StaticWebAssets.Manifest.cache
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\obj\Debug\netcoreapp3.1\staticwebassets\Assignment 4 - Server.StaticWebAssets.xml
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.dll
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.pdb
+D:\Univer\C#\Assignment 4\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.genruntimeconfig.cache
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Assignment 4 - Server.exe
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Assignment 4 - Server.deps.json
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Assignment 4 - Server.runtimeconfig.json
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Assignment 4 - Server.runtimeconfig.dev.json
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Assignment 4 - Server.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Assignment 4 - Server.pdb
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.csprojAssemblyReference.cache
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.AssemblyInfoInputs.cache
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.AssemblyInfo.cs
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.csproj.CoreCompileInputs.cache
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.RazorTargetAssemblyInfo.cache
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.csproj.CopyComplete
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\obj\Debug\netcoreapp3.1\staticwebassets\Assignment 4 - Server.StaticWebAssets.Manifest.cache
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\obj\Debug\netcoreapp3.1\staticwebassets\Assignment 4 - Server.StaticWebAssets.xml
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.dll
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.pdb
+D:\Univer\C#\Assignment 4 server\Assignment 4 - Server\obj\Debug\netcoreapp3.1\Assignment 4 - Server.genruntimeconfig.cache
